@@ -4,6 +4,8 @@
 - 🌱 estudando Java no momento
 - 📧 Contate-me em: gabrielalves2892@gmail.com
 
+## Tecnologias que eu uso no meu dia
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gb-IntelliJ" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
   <img align="center" alt="Gb-Java" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
@@ -11,9 +13,7 @@
   <img align="center" alt="Gb-Sql" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Rafa-HTML" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg">
   <img align="center" alt="Rafa-HTML" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<br><br>
-
-  
+ <br><br>
 
   👋 Olá! Me chamo Gabriel, um entusiasta de tecnologia e atualmente estou cursando o terceiro período da faculdade de Análise e Desenvolvimento de Sistemas. Minha paixão pela programação começou cedo, e desde então venho me dedicando ao aprendizado contínuo no mundo da programação Java.
 
