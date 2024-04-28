@@ -8,13 +8,13 @@
 
 ## About Me 🖐
   
-  👋 Olá! Me chamo Gabriel, um entusiasta de tecnologia e atualmente estou cursando o terceiro período da faculdade de Análise e Desenvolvimento de Sistemas. Minha paixão pela programação começou cedo, e desde então venho me dedicando ao aprendizado contínuo no mundo da programação Java.
+  👋 Hello, my name is Gabriel, I'm a technology enthusiast and I'm currently studying Systems Analysis and Development. My passion for programming started at an early age, and since then I've been dedicating myself to continuous learning in the world of Java programming.
 
-🚀 Estou em busca de uma vaga de dev Java onde possa aplicar e aprimorar minhas habilidades em desenvolvimento Java. Sou motivado, dedicado e estou sempre buscando novos desafios para crescer profissionalmente.
+🚀 I'm looking for a Java dev position where I can apply and improve my Java development skills. I am motivated, dedicated and always looking for new challenges to grow professionally.
 
-💼 Além dos estudos acadêmicos, tenho buscado experiências práticas por meio de projetos pessoais e colaborações em equipe. Estou ansioso para contribuir com meu conhecimento e aprender com profissionais experientes da área.
+💼 In addition to my academic studies, I have been seeking practical experience through personal projects and team collaborations. I'm looking forward to contributing my knowledge and learning from experienced professionals in the field.
 
-🔍 Se você está em busca de um dev comprometido e apaixonado por desenvolvimento Java, adoraria ter a oportunidade de conversar. Vamos conectar e explorar possíveis oportunidades juntos🚀!
+🔍 If you're looking for a committed dev with a passion for Java development, I'd love the opportunity to chat. Let's connect and explore possible opportunities together🚀!
 <hr>
 
 ### Technologies that I use in my daily life 👨‍💻
