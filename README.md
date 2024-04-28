@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Gabriel+Alves+;+Desenvolvedor+Java;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Gabriel+Alves+;+Java+Developer;" />
 </h1>
 
-- 📝Estou atualmente buscando uma vaga de dev Java
-- 🌱 estudando Java no momento
-- 📧 Contate-me em: gabrielalves2892@gmail.com
+- 📝I am currently looking for a Java dev position
+- 🌱 studying Java at the moment
+- 📧 Contact me at: gabrielalves2892@gmail.com
 
-## Sobre Mim 🖐
+## About Me 🖐
   
   👋 Olá! Me chamo Gabriel, um entusiasta de tecnologia e atualmente estou cursando o terceiro período da faculdade de Análise e Desenvolvimento de Sistemas. Minha paixão pela programação começou cedo, e desde então venho me dedicando ao aprendizado contínuo no mundo da programação Java.
 
@@ -17,7 +17,7 @@
 🔍 Se você está em busca de um dev comprometido e apaixonado por desenvolvimento Java, adoraria ter a oportunidade de conversar. Vamos conectar e explorar possíveis oportunidades juntos🚀!
 <hr>
 
-### Tecnologias que eu uso no meu dia 👨‍💻
+### Technologies that I use in my daily life 👨‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gb-IntelliJ" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
