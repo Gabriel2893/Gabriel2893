@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Gabriel+Alves+;+Java+Developer;" />
 </h1>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="animated" />
+</p>
+
 - 📝I am currently looking for a Java dev position
 - 🌱 studying Java at the moment
 - 📧 Contact me at: gabrielalves2892@gmail.com
@@ -29,9 +33,6 @@
   <img align="center" alt="AWS" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
  <br><br>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="animated" />
-</p>
 
 
 
