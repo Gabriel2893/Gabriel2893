@@ -1,27 +1,27 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Gabriel+Alves+;+Java+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+Chamo+Gabriel+Alves+;+Desenvolvedor+Java+☕;"/>
 </h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="animated" />
 </p>
 
-- 📝I am currently looking for a Java dev position
-- 🌱 studying Java at the moment
-- 📧 Contact me at: gabrielalves2892@gmail.com
+- 📝 Estou atualmente à procura de uma vaga de desenvolvedor Java
+- 🌱 Atualmente estudando Java
+- 📧 Contate-me em: gabrielalves2892@gmail.com
 
-## About Me 🖐
+## Sobre mim  🖐
   
-  👋 Hello, my name is Gabriel, I'm a technology enthusiast and I'm currently studying Systems Analysis and Development. My passion for programming started at an early age, and since then I've been dedicating myself to continuous learning in the world of Java programming.
+  👋 Olá, o meu nome é Gabriel, sou um entusiasta da tecnologia e estou atualmente estudando Análise e Desenvolvimento de Sistemas. Minha paixão pela programação começou desde cedo, e desde então tenho-me dedicado à aprendizagem contínua no mundo da programação Java.
 
-🚀 I'm looking for a Java dev position where I can apply and improve my Java development skills. I am motivated, dedicated and always looking for new challenges to grow professionally.
+🚀 Estou à procura de uma vaga de desenvolvedor Java onde possa aplicar e melhorar as minhas competências de desenvolvimento Java. Sou motivado, dedicado e estou sempre à procura de novos desafios para crescer profissionalmente.
 
-💼 In addition to my academic studies, I have been seeking practical experience through personal projects and team collaborations. I'm looking forward to contributing my knowledge and learning from experienced professionals in the field.
+💼 Para além dos meus estudos académicos, tenho procurado obter experiência prática através de projectos pessoais e colaborações em equipa. Estou ansioso por contribuir com os meus conhecimentos e aprender com profissionais experientes na área.
 
-🔍 If you're looking for a committed dev with a passion for Java development, I'd love the opportunity to chat. Let's connect and explore possible opportunities together🚀!
+🔍 Se você está procurando um dev comprometido com uma paixão pelo desenvolvimento Java, eu adoraria a oportunidade de conversar. Vamos nos conectar e explorar possíveis oportunidades juntos🚀!
 <hr>
 
-### Technologies that I use in my daily life 👨‍💻
+### Tecnologias que uso no meu dia a dia 👨‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gb-IntelliJ" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
